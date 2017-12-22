@@ -1,3 +1,3 @@
 # cs.github.io
-This is an experimental website. 
-The website link is
+This is my personal website. 
+The website link is 
