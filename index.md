@@ -2,7 +2,7 @@
 
 Hey, I am a first year computer science major from UC Berkeley. Here are some of my personal projects 
 
-- [Rubik's cube solving algorithm](www.google.com)
+- [Rubik's cube solving algorithm](https://www.google.com)
 -
 
 
