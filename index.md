@@ -1,7 +1,14 @@
 ## Welcome to Chenyu Shi's page
 
+Hey, I am a first year computer science major from UC Berkeley. Here are some of my personal projects 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Rubik's cube solving algorithm](www.google.com)
+-
+
+
+
+
+
 
 ### Markdown
 
